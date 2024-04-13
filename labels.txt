@@ -1,0 +1,2 @@
+0 No beard
+1 Beard
